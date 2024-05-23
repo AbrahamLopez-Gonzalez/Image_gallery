@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+}
+
+.main_colum {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    margin: 0px auto;
+    max-width: 500px;
+}
+
+/**/
+.main_colum > img {
+    /* box-shadow: 10px 10px 10px orange;
+    border: solid; */
+    margin: 15px 0px 0px;
+    width: 100%;
+    height: auto;
+}
+
+.main_colum > img:last-of-type {
+    margin: 15px 0px 15px;
+}
+
+/*↓↓Only looks good with images that don't have a background*/
+.drop_shadow {
+    /* parameters→ horizontal, vertical, blur*/
+    filter: drop-shadow(10px 10px 10px orange);
+}
+
+body.custom-cursor {
+    cursor: url('assets/icons/house.svg') 16 16, auto;
+}

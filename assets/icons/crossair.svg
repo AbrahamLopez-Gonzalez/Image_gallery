@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="none">
+    <!-- <rect width="50" height="50" fill="white" /> -->
+    <line x1="20" x2="30" y1="25" y2="25" stroke="black" />
+    <line x1="25" x2="25" y1="20" y2="30" stroke="black" />
+    <circle fill="black" r="1" cx="25" cy="25" />
+    <!-- <rect width="7" height="17" fill="black" />
+    <rect width="17" height="7" fill="black" />
+    <rect width="7" height="17" fill="black" x="43" />
+    <rect width="17" height="7" fill="black" x="33" />
+    <rect width="7" height="17" fill="black" x="43" y="33" />
+    <rect width="17" height="7" fill="black" x="33" y="43" />
+    <rect width="7" height="17" fill="black" y="33" />
+    <rect width="17" height="7" fill="black" y="43" /> -->
+</svg>
